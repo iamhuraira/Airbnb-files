@@ -9,7 +9,7 @@
     "dev": "nodemon NODE_ENV=development server.js",
     "prod": "nodemon NODE_ENV=production server.js"
   },
-  "author": "Talha",
+  "author": "Abu Huraira",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.3",
